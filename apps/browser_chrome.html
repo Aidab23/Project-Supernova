@@ -12,5 +12,31 @@
   <div class="options"></div>
 </div>
 <div class="webview">
-  New Tab Page.htmls
+  
 </div>
+
+<style>
+  .tab-group {
+    width: 100%;
+    height: 48px;
+  }
+  .tab {
+    width: 25%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr;
+    background: #323232;
+    border-radius: 1vmin;
+    color: white;
+  } 
+  .cont {
+    height: 24px;
+    background: #323232;
+    color: white;
+  }
+  .webview {
+    height: calc(100% - 72px);
+  }
+</style>
