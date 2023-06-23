@@ -14,13 +14,13 @@ fill info here nova u dumbass
 
 ### File Structure:
 
-    :open_file_folder:App Name
-        :page_facing_up:manifest.json
-        :framed_picture:icon.png
-        :page_facing_up:index.html
+    📂App Name
+        📄manifest.json
+        🖼️icon.png
+        📄index.html
         > Any Other Files
     
-        :open_file_folder:Your file structure
+        📂Your file structure
 
 ### Manifest.json #990000*
 > Remember to remove comments before packaging your app!!
