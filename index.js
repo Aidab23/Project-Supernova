@@ -29,8 +29,8 @@ $(document).ready(function() {
   if (load("init") != 'true') {
     username = load("username");
     wallpaper = load("wallpaper");
-    userpass = load("userpass", syscodeAPI);
-    userpasstype = load("userpasstype", syscodeAPI);
+    userpass = load("userpass");
+    userpasstype = load("userpasstype");
   } else {
     window.localStorage.setItem("init", "true")
     username = 'Nova Space';
