@@ -1,0 +1,14 @@
+{
+    "manifest_ver": 1,
+    "application_name": "Example Application",
+    "application_ver": "1.0.0",
+    "dir": {
+        "index_file":"index.html",
+        "apis": {
+            // see api list for a list of apis
+            "apiname": "version of api"
+        }
+    },
+    "author": "Project Supernova",
+    "author_website": "https://projectsupernova.net" //optional
+}
