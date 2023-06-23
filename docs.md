@@ -22,7 +22,7 @@ fill info here nova u dumbass
     
         📂Your file structure
 
-### Manifest.json #990000*
+### Manifest.json
 > Remember to remove comments before packaging your app!!
 
     {
